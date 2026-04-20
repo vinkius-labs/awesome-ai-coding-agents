@@ -26,6 +26,7 @@ The right AI tool paired with the right data sources changes everything.
 | Agent | Editor | MCP Support | Description |
 |---|---|---|---|
 | [Cursor](https://cursor.sh) | VS Code fork | Native | AI-first code editor with .cursorrules and MCP |
+| [OpenMagic](https://github.com/Kalmuraee/OpenMagic) | Web apps / browser overlay | Native | AI-powered coding toolbar for any web app with element context, diff previews, and approved reverse-proxy edits |
 | [GitHub Copilot](https://github.com/features/copilot) | VS Code, JetBrains, Vim | Via extensions | Code completion and chat by GitHub |
 | [Windsurf](https://codeium.com/windsurf) | VS Code fork | Native | Cascade flows with deep codebase understanding |
 | [Continue](https://continue.dev) | VS Code, JetBrains | Native | Open-source AI code assistant |
