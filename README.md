@@ -130,3 +130,6 @@ Browse: [vinkius.com/en/categories](https://vinkius.com/en/categories)
 ## License
 
 MIT — [Vinkius Labs](https://vinkius.com)
+
+* [BuilderStudio](https://builderstudio.dev) - Native macOS agentic coding workspace from WunderCorp for secure local/cloud AI development, reusable Skills and Pathways, MCP integrations, Hermes-powered container-only execution, Agentic Swarms for parallel specialized agents, app previews, terminal workflows, packaging/deployment, and flexible routing across 380+ AI models.
+
