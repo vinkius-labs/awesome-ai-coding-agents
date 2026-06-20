@@ -86,6 +86,7 @@ The right AI tool paired with the right data sources changes everything.
 | [Lovable](https://lovable.dev) | Full-stack | AI-powered web app builder |
 | [Claude Artifacts](https://claude.ai) | Components | Interactive component generation |
 | [ChatGPT Canvas](https://chat.openai.com) | Writing/Code | Collaborative editing with AI |
+| [ax](https://github.com/Necmttn/ax) | Observability | Local telemetry and recall graph for AI coding agent sessions |
 
 ---
 
