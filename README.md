@@ -75,6 +75,7 @@ The right AI tool paired with the right data sources changes everything.
 | [Codium (Qodo)](https://qodo.ai) | Test generation and code integrity |
 | [Sourcery](https://sourcery.ai) | Automated Python code quality improvements |
 | [Greptile](https://greptile.com) | Codebase-aware AI for code reviews |
+| [Aura](https://github.com/Naridon-Inc/aura) | Open-source VCS layer for reviewing AI-agent code changes with semantic diffs and provenance |
 
 ## Specialized Agents
 
