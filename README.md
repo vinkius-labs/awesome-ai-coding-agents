@@ -41,6 +41,7 @@ The right AI tool paired with the right data sources changes everything.
 | [Aider](https://aider.chat) | Via config | Terminal pair programming with git integration |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Via tools | Autonomous software development agent |
 | [Mentat](https://mentat.ai) | Via config | Terminal-based AI coding assistant |
+| [molt](https://github.com/solvyxtech/molt) | Via tools | Coding agent that won't say done on a false claim; verification on disk, receipts either way |
 | [GPT Engineer](https://gptengineer.app) | Via tools | Generate full codebases from prompts |
 | [Sweep](https://sweep.dev) | Via GitHub | AI-powered pull request generation |
 
