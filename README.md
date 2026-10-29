@@ -84,6 +84,7 @@ The right AI tool paired with the right data sources changes everything.
 | [bolt.new](https://bolt.new) | Full-stack | Full-stack web apps from prompts |
 | [Replit Agent](https://replit.com) | Full-stack | Build and deploy apps in-browser |
 | [Lovable](https://lovable.dev) | Full-stack | AI-powered web app builder |
+| [AppWizzy](https://appwizzy.com/) | Full-stack | Builds web apps from prompts with dedicated cloud VMs, runtime templates, and Git-backed source editing |
 | [Claude Artifacts](https://claude.ai) | Components | Interactive component generation |
 | [ChatGPT Canvas](https://chat.openai.com) | Writing/Code | Collaborative editing with AI |
 
